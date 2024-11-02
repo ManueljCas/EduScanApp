@@ -74,6 +74,7 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   signupContainer: {
+    justifyContent: 'center',
     flexDirection: 'row',
     marginTop: 20,
   },
